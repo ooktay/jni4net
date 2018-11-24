@@ -3,3 +3,4 @@ jni4net.iws
 tools/keys/jni4net.snk
 tools/lib/
 .vs/
+/packages/
